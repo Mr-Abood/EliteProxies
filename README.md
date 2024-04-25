@@ -1,5 +1,5 @@
 # Elite Proxies
-[Elite Proxies](https://eliteproxies.live/home) is a service that provides a constantly updated list of strong proxies, including elite and anonymous proxies, for free. This document will guide you through our website, its features, and how to use our API.
+[Elite Proxies](https://eliteproxies.live/) is a service that provides a constantly updated list of strong proxies, including elite and anonymous proxies, for free. This document will guide you through our website, its features, and how to use our API.
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -35,4 +35,4 @@ While using Elite Proxies, we ask that you follow these guidelines:
 ## Contact Us
 If you have any questions, feedback, or need support, please reach out to us:
 - **Telegram**: [@EliteProxies](https://t.me/EliteProxies)
-- **Website**: [eliteproxies.live](https://eliteproxies.live/home)
+- **Website**: [eliteproxies.live](https://eliteproxies.live/)
